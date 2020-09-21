@@ -1,3 +1,5 @@
+#define INT0 0,0,0,0,0,0,0,0
+#define NUM00000000 0
 #define INT1 0,0,0,0,0,0,0,1
 #define NUM00000001 1
 #define INT2 0,0,0,0,0,0,1,0
